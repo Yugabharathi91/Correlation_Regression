@@ -1,3 +1,6 @@
+
+# Name : Praveen Raj G
+# Reg no : 212224040245
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -21,12 +24,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
-
-Name : A SATHYA NARAYANAN
-
-Reg No : 212225040392
-
-
 import numpy as np
 import math
 import matplotlib.pyplot as plt
