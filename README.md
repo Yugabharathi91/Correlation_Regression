@@ -1,6 +1,6 @@
 
-# Name : Praveen Raj G
-# Reg no : 212224040245
+# Name : YUGABHARATHI M
+# Reg no : 212224230314
 # Correlation and regression for data analysis
 # Aim : 
 
